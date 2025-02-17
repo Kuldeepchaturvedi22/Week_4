@@ -1,4 +1,4 @@
-package com.Annotations.Exercise;
+package com.Annotations.Exercise.UseOverrideCorrectly;
 
 class Animal {
     // Method to make a sound
